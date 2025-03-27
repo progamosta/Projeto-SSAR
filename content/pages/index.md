@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Quais as vantagens?
     items:
       - type: FeaturedItem
         title: Custo
