@@ -398,7 +398,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Conheça um pouco sobre a nossa moral em relação a segurança
     items:
       - title: >-
           “A verdadeira segurança do futuro depende da integração entre
