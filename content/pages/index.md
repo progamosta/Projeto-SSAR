@@ -461,7 +461,7 @@ sections:
           mas garantir que a infraestrutura digital de amanhã esteja blindada
           contra ameaças cada vez mais sofisticadas."
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Gabriel Oliveira
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
