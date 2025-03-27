@@ -461,7 +461,7 @@ sections:
           mas garantir que a infraestrutura digital de amanhã esteja blindada
           contra ameaças cada vez mais sofisticadas."
         tagline: ''
-        subtitle: Gabriel Oliveira
+        subtitle: 'Gabriel Oliveira, membro da Aegis segurança.'
         text: ''
         image:
           url: /images/person-placeholder-light.png
