@@ -351,7 +351,7 @@ sections:
       text: Consulta empresarial
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Para empresas e patrocinadores
     text: >+
       Se você é um fornecedor, ou se interessou pelo nosso projeto, pode nos
       contatar via E-mail e nos enviar uma proposta ou uma reunião, iremos ouvir
