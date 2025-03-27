@@ -525,7 +525,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: seção de dúvidas
-    text: >+
+    text: >
       Para garantir a segurança do seu ambiente com tecnologia de ponta, entre
       em contato conosco e descubra como podemos ajudar a proteger o que você
       mais valoriza. Nossa equipe está pronta para oferecer soluções
@@ -533,8 +533,7 @@ sections:
       tempo, fale conosco agora mesmo e transforme sua segurança!
 
 
-      **E-mail**: \[[seuemail@dominio.com]()] **Instagram**: @aegisperdizes
-
+      **E-mail**: [seuemail@dominio.com]() **Instagram**: @aegisperdizes
     media:
       fields:
         - name: ''
