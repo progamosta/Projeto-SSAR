@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Monitoramento
-        subtitle: Monitoramento Inteligente
+        subtitle: Segurança Inteligente
         text: >+
           Com sensores e automação, agricultores podem monitorar suas terras em
           tempo real, prevenindo perdas e aumentando a produtividade.
