@@ -280,11 +280,8 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |2
+       Os Vídeos com o protótipo e a explicação com mais detalhes do produto ainda está em andamento, fiquem atentos para mais detalhes do projeto da nossa empresa.
     actions: []
     media:
       title: Title of the video
