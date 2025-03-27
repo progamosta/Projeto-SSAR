@@ -534,8 +534,7 @@ sections:
 
 
       **E-mail**: \[[seuemail@dominio.com]()]
-
-      **Instagram**: @aegisperdizes
+        **Instagram**: @aegisperdizes
     media:
       fields:
         - name: ''
