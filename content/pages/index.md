@@ -348,7 +348,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Consulta empresarial
+      text: Consulta e perguntas
       color: text-dark
       type: TitleBlock
     subtitle: Para empresas e patrocinadores
