@@ -405,7 +405,7 @@ sections:
           tecnologia avançada e gestão estratégica, onde a inovação é a chave
           para a proteção contínua de dados e ativos..”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Gusthavo Andrade, membro da Aegis segurança.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
