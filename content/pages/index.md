@@ -7,7 +7,7 @@ sections:
       text: Projeto SSAR
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: O que é este projeto?
     text: >+
       O **Projeto SSAR** é uma solução inovadora voltada para a modernização de
       **fazendas, sítios e áreas remotas**, garantindo conectividade, automação
