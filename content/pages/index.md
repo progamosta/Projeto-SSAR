@@ -489,7 +489,7 @@ sections:
           sensores e câmeras conectadas podem prever e prevenir danos,
           proporcionando um ambiente mais seguro e produtivo.”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Pabliny Ferreira
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
