@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Presencie o poder de Deus em sua vida!!!!
+      text: Projeto SSAR
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
