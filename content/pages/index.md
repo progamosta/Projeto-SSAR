@@ -429,8 +429,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "A tecnologia não só reforça a segurança, mas também redefine os
+          limites da proteção, permitindo que monitoramentos se tornem mais
+          rápidos, precisos e eficazes."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
