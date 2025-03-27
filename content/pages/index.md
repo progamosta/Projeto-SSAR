@@ -69,10 +69,13 @@ sections:
       - type: FeaturedItem
         title: Custo
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Nosso sistema reduz o desperdício de recursos e otimiza a gestão da
+          propriedade rural, permitindo economia em combustíveis, insumos e mão
+          de obra.
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
