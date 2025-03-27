@@ -294,7 +294,7 @@ sections:
       redes sociais, com mais frequência e uma comunicação mais direta com
       nossos clientes.
     actions:
-      - label: Get started
+      - label: Assistir
         url: /
         icon: arrowRight
         iconPosition: right
