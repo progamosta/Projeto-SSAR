@@ -452,7 +452,7 @@ sections:
         subtitle: 'Pabliny Ferreira, membro da Aegis segurança.'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/WhatsApp Image 2025-03-27 at 17.44.51.jpeg
           altText: Maria Walters
           styles:
             self:
