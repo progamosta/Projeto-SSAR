@@ -332,7 +332,7 @@ sections:
       possível.
 
     actions:
-      - label: See Tutorials
+      - label: ''
         url: /
         showIcon: true
         icon: arrowRight
