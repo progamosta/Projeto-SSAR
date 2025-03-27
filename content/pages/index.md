@@ -68,7 +68,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Custo
-        subtitle: Numbers Done
+        subtitle: Menos gastos operacionais
         text: >+
           Nosso sistema reduz o desperdício de recursos e otimiza a gestão da
           propriedade rural, permitindo economia em combustíveis, insumos e mão
