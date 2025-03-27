@@ -58,7 +58,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Benefícios do uso desse sistema
       color: text-dark
       styles:
         self:
