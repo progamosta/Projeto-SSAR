@@ -318,7 +318,8 @@ sections:
     subtitle: ''
     text: >
       Caso tenham interesse, também teremos atualizações do projeto em nossas
-      redes sociais
+      redes sociais, com mais frequência e uma comunicação mais direta com
+      nossos clientes e fornecedores.
     actions:
       - label: Get started
         url: /
