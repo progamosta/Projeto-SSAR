@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      O **Projeto SSAR** é uma solução inovadora voltada para a modernização de
+      **fazendas, sítios e áreas remotas**, garantindo conectividade, automação
+      e eficiência operacional. Nossa tecnologia permite **monitoramento remoto,
+      controle automatizado de equipamentos e comunicação estável**, mesmo em
+      locais afastados.
+
+
+
     actions:
       - label: Get started
         altText: ''
