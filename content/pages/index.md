@@ -18,7 +18,7 @@ sections:
 
 
     actions:
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
