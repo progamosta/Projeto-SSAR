@@ -319,7 +319,7 @@ sections:
     text: >
       Caso tenham interesse, também teremos atualizações do projeto em nossas
       redes sociais, com mais frequência e uma comunicação mais direta com
-      nossos clientes e fornecedores.
+      nossos clientes.
     actions:
       - label: Get started
         url: /
