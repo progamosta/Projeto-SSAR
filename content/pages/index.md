@@ -485,8 +485,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Em fazendas, a segurança com tecnologia vai além de cercas físicas:
+          sensores e câmeras conectadas podem prever e prevenir danos,
+          proporcionando um ambiente mais seguro e produtivo.”
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
