@@ -300,7 +300,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Tirar dúvidas
         url: /
         showIcon: true
         icon: arrowRight
