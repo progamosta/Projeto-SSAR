@@ -541,7 +541,7 @@ sections:
 
     media:
       fields:
-        - name: name
+        - name: ''
           label: Name
           hideLabel: true
           placeholder: Your name
