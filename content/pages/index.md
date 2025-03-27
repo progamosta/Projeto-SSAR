@@ -126,7 +126,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Conectividade Avançada
-        subtitle: Faster
+        subtitle: Mais rapidez na tomada de decisões
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
