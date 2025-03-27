@@ -401,8 +401,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “A verdadeira segurança do futuro depende da integração entre
+          tecnologia avançada e gestão estratégica, onde a inovação é a chave
+          para a proteção contínua de dados e ativos..”
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
