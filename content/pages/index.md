@@ -488,7 +488,7 @@ sections:
           “Em fazendas, a segurança com tecnologia vai além de cercas físicas:
           sensores e câmeras conectadas podem prever e prevenir danos,
           proporcionando um ambiente mais seguro e produtivo.”
-        tagline: Testimonial 4
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
