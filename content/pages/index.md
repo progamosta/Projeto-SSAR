@@ -229,7 +229,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Vigilância local
     text: >
       O desafio de operar em áreas rurais sem infraestrutura adequada impede o
       crescimento de muitas propriedades. Nosso sistema foi desenvolvido para
