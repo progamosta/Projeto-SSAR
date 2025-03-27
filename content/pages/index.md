@@ -457,8 +457,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Investir em segurança inteligente não é apenas sobre proteger hoje,
+          mas garantir que a infraestrutura digital de amanhã esteja blindada
+          contra ameaças cada vez mais sofisticadas."
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
