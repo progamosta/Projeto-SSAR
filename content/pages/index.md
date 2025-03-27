@@ -521,7 +521,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Central de ajuda ao cliente
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
