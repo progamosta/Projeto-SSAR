@@ -489,7 +489,7 @@ sections:
           sensores e câmeras conectadas podem prever e prevenir danos,
           proporcionando um ambiente mais seguro e produtivo.”
         tagline: ''
-        subtitle: Pabliny Ferreira
+        subtitle: 'Pabliny Ferreira, membro da Aegis segurança.'
         text: ''
         image:
           url: /images/person-placeholder-light.png
