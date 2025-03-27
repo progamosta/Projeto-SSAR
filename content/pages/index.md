@@ -100,10 +100,12 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Monitoramento Inteligente
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Com sensores e automação, agricultores podem monitorar suas terras em
+          tempo real, prevenindo perdas e aumentando a produtividade.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
