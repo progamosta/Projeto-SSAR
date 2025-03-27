@@ -98,7 +98,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Monitoramento
         subtitle: Monitoramento Inteligente
         text: >+
           Com sensores e automação, agricultores podem monitorar suas terras em
