@@ -331,14 +331,7 @@ sections:
       qualquer demanda de maneira ágil para que você tenha o melhor atendimento
       possível.
 
-    actions:
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero3.svg
       altText: Dope design preview
