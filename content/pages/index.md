@@ -235,7 +235,7 @@ sections:
       crescimento de muitas propriedades. Nosso sistema foi desenvolvido para
       superar esses obstáculos, proporcionando uma segurança com tecnologia com
       uma rede local sem a necessidade de internet ou sem energia elétrica das
-      distribuidoras elétricas.
+      distribuidoras elétricas. 
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
