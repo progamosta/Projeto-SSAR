@@ -250,13 +250,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: >+
+    text: >
       O desafio de operar em áreas rurais sem infraestrutura adequada impede o
       crescimento de muitas propriedades. Nosso sistema foi desenvolvido para
-      superar esses obstáculos, proporcionando:
-
-
-
+      superar esses obstáculos, proporcionando uma segurança com tecnologia
+      mesmo sem internet ou sem energia elétrica das distribuidoras elétricas.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
