@@ -352,9 +352,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Se você é um fornecedor, ou se interessou pelo nosso projeto, pode nos
+      contatar via E-mail e nos enviar uma proposta ou uma reunião, iremos ouvir
+      qualquer demanda de maneira ágil para que você tenha o melhor atendimento
+      possível.
+
     actions:
       - label: Get started
         url: /
