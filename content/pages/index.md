@@ -315,7 +315,7 @@ sections:
       text: Nossas redes sociais
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       Caso tenham interesse, também teremos atualizações do projeto em nossas
       redes sociais
