@@ -406,10 +406,7 @@ sections:
           para a proteção contínua de dados e ativos..”
         tagline: ''
         subtitle: 'Gusthavo Andrade, membro da Aegis segurança.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
