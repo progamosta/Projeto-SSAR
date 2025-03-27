@@ -433,7 +433,7 @@ sections:
           limites da proteção, permitindo que monitoramentos se tornem mais
           rápidos, precisos e eficazes."
         tagline: ''
-        subtitle: Evely Alves
+        subtitle: 'Evely Alves, membro da Aegis segurança.'
         text: ''
         image:
           url: /images/person-placeholder-light.png
