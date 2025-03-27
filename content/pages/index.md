@@ -432,7 +432,7 @@ sections:
           "A tecnologia não só reforça a segurança, mas também redefine os
           limites da proteção, permitindo que monitoramentos se tornem mais
           rápidos, precisos e eficazes."
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: Evely Alves
         text: ''
         image:
